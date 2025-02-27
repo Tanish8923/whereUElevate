@@ -15,12 +15,18 @@ Each task covers different aspects of **frontend, backend, databases, and full-s
 - **Day 5**:   replication and custom definition of high-order functions (map, filter, reduce)
 - **Day 6**:   Weather app with api calling
 - **Day 7**:   Replicate sundown website using html , css and js with swiper.js and locomotive
+- **Day 8**:   counter app using react and tailwind
+- **Day 9**:   tour cards app using react with tailwind
+- **Day 10**:   react app using webpack
+- **Day 11**:   form app using react and tailwind
+- **Day 12**:   React app using react-router
+- **Day 13**:   Chat app using useReducer and context api
 
 ---
 
 ## 🚀 Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript , React , Tailwind css
 - **Backend**: 
 - **Databases**:
 - **Version Control**: Git & GitHub  

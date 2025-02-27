@@ -1,0 +1,10 @@
+Inbuilt Middleware 🎯
+
+
+Middleware  -->	Kaam  ->	Use Case
+
+thunk  ->	Async Request Handling  ->	API Calling (Fetch Data)
+
+serializableStateInvariant  ->	State ko Immutable Banata hai   ->	Development ke Time Error Detection
+
+immutableStateInvariant  -> 	State ko Deep Freeze karta hai  ->	Prevent State Modificatio
